@@ -5980,3 +5980,14 @@ xBase:
   tm_scope: source.harbour
   ace_mode: text
   language_id: 421
+Z:
+  type: programming
+  color: "#2F0087"
+  aliases:
+  - zlang
+  - zlanguage
+  extensions:
+  - ".zlang"
+  tm_scope: none,
+  ace_mode: text,
+  language_id: 422
